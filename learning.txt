@@ -1,0 +1,1 @@
+In this course, i have learned how Git and Github help developers track changes, collaborate effectively and manage code versions.I now understand how to create repositories, make commits, use branches and push changes to Github.
